@@ -1,0 +1,42 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+*/
+
+@import 'token-input';
+@import 'token-input-facebook';
+@import 'codemirror';
+@import 'mousetrap';
+@import 'peek';
+@import 'webui/application/bento';
+@import 'webui/application/cm2';
+@import 'webui/application/icons';
+@import 'webui/application/style';
+@import 'webui/application/our-own-jquery-ui';
+@import 'webui/application/monitor';
+@import 'webui/application/package';
+@import 'webui/application/project';
+@import 'webui/application/search';
+@import 'webui/application/home';
+@import 'webui/application/comments';
+@import 'webui/application/notifications';
+@import 'webui/application/attribute';
+@import 'webui/application/request';
+@import 'webui/application/datatable';
+@import 'webui/application/jobhistory';
+@import 'webui/application/kiwi_image';
+@import 'webui/application/cloud';
+@import 'webui/application/image_templates';
+@import 'webui/application/flash';
+@import 'webui/application/box-extensions';
+@import 'webui/application/utils';
+@import 'webui/application/datatables';
+@import 'webui/application/announcements';
+@import 'webui/application/interconnect';
